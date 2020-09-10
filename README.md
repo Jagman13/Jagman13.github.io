@@ -22,3 +22,5 @@
 
 
 ![Jagman Github Stats](https://github-readme-stats.vercel.app/api?username=jagman13&count_private=true&show_icons=true)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagman13&hide=jupyternotebook&layout=compact)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagman13&repo=github-readme-stats)](https://github.com/jagman13/github-readme-stats)
